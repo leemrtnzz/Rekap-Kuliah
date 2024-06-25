@@ -1,0 +1,5 @@
+1. Mahasiswa mampu merancang flowchart sebagai dasar pembuatan program berdasarkan kasus yang diberikan
+2. Mahasiswa mampu menganalisis kesalahan penggunaan stacking dan nesting if serta memberikan solusi
+3. Mahasiswa mampu menerapkan variable array untuk menangani kumpulan data
+4. Mahasiswa mampu membuat implementasi loop untuk mengakses element array
+5. Mahasiswa mampu membuat fungsi untuk meningkatkan penggunaan kembali kode (reusabiliy).
