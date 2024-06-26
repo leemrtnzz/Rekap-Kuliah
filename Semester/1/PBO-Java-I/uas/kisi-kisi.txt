@@ -1,0 +1,5 @@
+1. Pelajari tentang konsep dasar project, package, dan class
+2. Penerapan dan sintaks if majemuk (analisa output yang di tampilkan oleh sebuah program)
+3. Penerapan dan sintaks switch case (Melengkapi bagian code yang kosong)
+4. Penerapan looping (Menuliskan code program dari tampilan sebuah output)
+5. Pelajari tentang if tunggal dan if ganda

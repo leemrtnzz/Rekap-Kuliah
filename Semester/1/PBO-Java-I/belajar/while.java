@@ -22,6 +22,10 @@ public class while {
             boolean update = ulang.equals("y") ? true : false;
             stat = update;
         }
-        
+        int nilai = 0;
+        while(nilai <= 10) {
+            System.out.println("Saya berjanji tidak akan telat lagi. ("+nilai+")");
+            nilai++;
+        }
     }
 }
